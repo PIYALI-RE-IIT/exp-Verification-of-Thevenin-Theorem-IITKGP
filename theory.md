@@ -49,7 +49,8 @@ $$V_{o.c.} & = \frac{E*R_2}{r + R_1+R_2}$$
 <div>
 <br><figure style="text-align:center">
 <img alt="" src="images/pic4.JPG" style="width:400px;height:200px;">
-<figcaption>[Fig 4: Thevenin's equivalent circuit]
+<figcaption>
+ [Fig 4: Thevenin's equivalent circuit]
 </figcaption>
 </figure>
 <br>
