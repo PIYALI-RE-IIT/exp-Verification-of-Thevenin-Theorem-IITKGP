@@ -10,10 +10,6 @@
 <b> Experiment|     <b> **Verification of Thevenin Theorem and Experiment 2**
 
 
-### About the Experiment 
-
-<!--Fill a brief description of this experiment here-->
-
 <b>Name of Developer | <b> **Prof. A.K Deb**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
