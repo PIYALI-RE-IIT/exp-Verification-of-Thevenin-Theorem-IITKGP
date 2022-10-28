@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Thevenin Theorem and Experiment 2**
+<b> Experiment|     <b> **Verification of Thevenin Theorem and section A Experiment 2**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
